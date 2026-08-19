@@ -278,32 +278,6 @@ My current areas of interest include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-I use GitHub to document my learning journey, experiment with new technologies, and build practical software projects.
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-
----
-
 ## 🧰 Development Workflow
 
 ```text
